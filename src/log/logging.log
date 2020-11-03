@@ -1,0 +1,256 @@
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=451} to 451 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=452} to 452 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=453} to 453 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=454} to 454 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=455} to 455 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=456} to 456 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=457} to 457 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=458} to 458 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=459} to 459 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=460} to 460 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=461} to 461 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=462} to 462 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=463} to 463 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=464} to 464 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=465} to 465 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=466} to 466 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=467} to 467 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=468} to 468 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=469} to 469 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=470} to 470 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=471} to 471 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=472} to 472 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=473} to 473 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=474} to 474 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=475} to 475 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=476} to 476 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=477} to 477 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=478} to 478 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=479} to 479 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=480} to 480 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=481} to 481 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=482} to 482 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=483} to 483 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=484} to 484 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=485} to 485 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=486} to 486 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=487} to 487 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=488} to 488 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=489} to 489 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=490} to 490 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=491} to 491 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=492} to 492 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=493} to 493 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=494} to 494 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=495} to 495 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=496} to 496 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=497} to 497 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=498} to 498 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=499} to 499 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=500} to 500 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=501} to 501 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=502} to 502 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=503} to 503 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=504} to 504 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=505} to 505 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=506} to 506 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=507} to 507 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=508} to 508 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=509} to 509 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=510} to 510 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=1, name='Vase', price=511} to 511 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=512} to 512 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=513} to 513 
+
+2020-11-03 14:48:28 INFO  Participant:53 - Thread pool-2-thread-1 is out for the lot...
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=1, name='Vase', price=514} to 514 
+
+2020-11-03 14:48:28 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=1, name='Vase', price=515} to 515 
+
+2020-11-03 14:48:28 INFO  Participant:53 - Thread pool-2-thread-2 is out for the lot...
+2020-11-03 14:48:28 INFO  Participant:53 - Thread pool-2-thread-3 is out for the lot...
+2020-11-03 14:48:33 INFO  AuctionStarter:31 - Item Item{id=1, name='Vase', price=515} is wun by Participant{id=3, participantName='Billy'}
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=456} to 456 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=457} to 457 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=2, name='Candle', price=458} to 458 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=459} to 459 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=460} to 460 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=461} to 461 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=462} to 462 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=2, name='Candle', price=463} to 463 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=464} to 464 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=465} to 465 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=2, name='Candle', price=466} to 466 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=467} to 467 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=2, name='Candle', price=468} to 468 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=469} to 469 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=470} to 470 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=471} to 471 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=2, name='Candle', price=472} to 472 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=473} to 473 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=474} to 474 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=2, name='Candle', price=475} to 475 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=476} to 476 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=477} to 477 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=2, name='Candle', price=478} to 478 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=479} to 479 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=480} to 480 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=2, name='Candle', price=481} to 481 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=482} to 482 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=483} to 483 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=2, name='Candle', price=484} to 484 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=485} to 485 
+
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=2, name='Candle', price=486} to 486 
+
+2020-11-03 14:48:33 INFO  Participant:53 - Thread pool-2-thread-2 is out for the lot...
+2020-11-03 14:48:33 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=2, name='Candle', price=487} to 487 
+
+2020-11-03 14:48:33 INFO  Participant:53 - Thread pool-2-thread-1 is out for the lot...
+2020-11-03 14:48:33 INFO  Participant:53 - Thread pool-2-thread-3 is out for the lot...
+2020-11-03 14:48:38 INFO  AuctionStarter:31 - Item Item{id=2, name='Candle', price=487} is wun by Participant{id=3, participantName='Billy'}
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=3, name='lamp', price=5634} to 5634 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=3, name='lamp', price=5635} to 5635 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=3, name='lamp', price=5636} to 5636 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=3, name='lamp', price=5637} to 5637 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=3, name='lamp', price=5638} to 5638 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=3, name='lamp', price=5639} to 5639 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=3, name='lamp', price=5640} to 5640 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=3, name='lamp', price=5641} to 5641 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=3, name='lamp', price=5642} to 5642 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=3, name='lamp', price=5643} to 5643 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=3, name='lamp', price=5644} to 5644 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=3, name='lamp', price=5645} to 5645 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=3, name='lamp', price=5646} to 5646 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=3, name='lamp', price=5647} to 5647 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=3, name='lamp', price=5648} to 5648 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=3, name='lamp', price=5649} to 5649 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=3, name='lamp', price=5650} to 5650 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=3, name='lamp', price=5651} to 5651 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=3, name='lamp', price=5652} to 5652 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=3, name='lamp', price=5653} to 5653 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=3, name='lamp', price=5654} to 5654 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=3, name='lamp', price=5655} to 5655 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=1, participantName='Van'} raises price for Item{id=3, name='lamp', price=5656} to 5656 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=3, participantName='Billy'} raises price for Item{id=3, name='lamp', price=5657} to 5657 
+
+2020-11-03 14:48:38 INFO  Auction:80 -  Participant Participant{id=2, participantName='Dan'} raises price for Item{id=3, name='lamp', price=5658} to 5658 
+
+2020-11-03 14:48:38 INFO  Participant:53 - Thread pool-2-thread-3 is out for the lot...
+2020-11-03 14:48:38 INFO  Participant:53 - Thread pool-2-thread-2 is out for the lot...
+2020-11-03 14:48:38 INFO  Participant:53 - Thread pool-2-thread-1 is out for the lot...
+2020-11-03 14:48:43 INFO  AuctionStarter:31 - Item Item{id=3, name='lamp', price=5658} is wun by Participant{id=2, participantName='Dan'}
